@@ -1,0 +1,8 @@
+{
+  "name": "emoji-random",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nicolas-design/emoji-random",
+  "author": "Nicolas <gadnernicolas@gmail.com>",
+  "license": "MIT"
+}
