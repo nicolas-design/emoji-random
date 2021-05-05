@@ -60,10 +60,11 @@ function print(ex, length, Width) {
 
 //main
 let input;
-
+console.log('Type start to start the game');
 do {
   input = prompt('input: ').toLowerCase();
 } while (input !== 'start');
+console.log('Type quit to quit the game');
 let arr = [];
 let squareA = prompt('Enter length: ');
 let squareB = prompt('Enter Width: ');
